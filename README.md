@@ -35,13 +35,14 @@ Docker, Git/GitHub
 https://github.com/mathdsousa/algoritmo-divisivo-JS  
 Projeto de Iniciação Científica, financiado pela FAPESP, com o objetivo de implementar e analisar o Algoritmo Divisivo de Agrupamento Baseado em MST com a Divergência de Jensen-Shannon.
 
+**Projeto - Game Bias Hunt**  
+https://github.com/mathdsousa/Projeto-raia  
+Ganhador do 3° lugar do Hackathon RAIA by .monks, esse jogo educativo que ensina usuários a identificar vieses em manchetes jornalísticas. Utiliza IA Generativa para avaliar as escolhas do jogador e oferecer sugestões personalizadas para melhorar sua capacidade de análise.
+
 **Sistema de Divulgação e Aplicação para Vagas de Emprego (DSW1)**  
 https://github.com/mathdsousa/Trabalho2-DSW1  
 Durante a disciplina de Desenvolvimento de Software Web 1, nosso grupo desenvolveu essa aplicação utilizando as seguintes tecnologias: Java, SpringBoot, MySQL, API REST e Thymeleaf.
 
-**Projeto - Game Bias Hunt**  
-https://github.com/mathdsousa/Projeto-raia  
-Ganhador do 3° lugar do Hackathon RAIA by .monks, esse jogo educativo que ensina usuários a identificar vieses em manchetes jornalísticas. Utiliza IA Generativa para avaliar as escolhas do jogador e oferecer sugestões personalizadas para melhorar sua capacidade de análise.
 
 **Projeto DevOps – Catlog**  
 https://github.com/mathdsousa/Trabalho2DevOps  
